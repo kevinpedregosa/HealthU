@@ -1,3 +1,5 @@
 .DS_Store
 .DerivedData/
 xcuserdata/
+backend/.env
+backend/node_modules/
